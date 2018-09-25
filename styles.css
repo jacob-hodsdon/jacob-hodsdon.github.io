@@ -1,0 +1,45 @@
+body {
+    background:mediumseagreen;
+    color: black;
+    font-size: 16pt;
+    font-family: 'PT Serif', serif;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+    color: black;
+    margin: auto;
+}
+h4 {
+    font-size: 100%;
+    font-weight: bold;
+}
+h3 {
+    font-size: 100%;
+    font-style: italic;
+}
+
+li{
+
+    display: block;
+    border: 2px solid black;
+    padding: 15px;
+    background: whitesmoke;
+}
+
+ul{
+    list-style: -moz-cjk-earthly-branch;
+    border: 2px solid black;
+    font-style: italic;
+    padding: 10px;
+    background: deepskyblue;
+}
+a {
+    color: maroon;
+    text-decoration: none
+}
+
+a:hover {
+    color: deepskyblue
+}
